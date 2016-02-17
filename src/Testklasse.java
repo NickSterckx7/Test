@@ -1,5 +1,5 @@
 
 public class Testklasse {
 int i;
-int y;
+private String x;
 }
